@@ -1,4 +1,4 @@
 public class Main {
-	private String name = "도라이";
+	private String name = "도라이";	//gitTest
 	public static void main(String[] args){ System.out.println(name);}
 }
